@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Google Search automation app]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="automation task test cases(failed)">
+    <classes>
+      <class name="testcases.GoogleMainPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="Searchingoogletest"/>
+        </methods>
+      </class> <!-- testcases.GoogleMainPageTest -->
+    </classes>
+  </test> <!-- automation task test cases(failed) -->
+</suite> <!-- Failed suite [Google Search automation app] -->

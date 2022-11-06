@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69021d5e-40fc-4762-9843-a42918109c9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Driven.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEDriverServer_Win32_4.3.0.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geckodriver-v0.31.0-win32.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExtentReportListner/ExtentReportListner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basepage/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/GoogleMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/GooglePageThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/GooglePageTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/GoogleSearchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testdata/Data_Driven.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/TestUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/GoogleMainPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/GooglePageThreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/GooglePageTwoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/GoogleSearchResultTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Extent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Google Search automation app/automation task test cases.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Google Search automation app/automation task test cases.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Google Search automation app/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testcases.GoogleMainPageTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testcases.GooglePageThreeTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testcases.GooglePageTwoTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testcases.GoogleSearchResultTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Google Search automation app/automation task test cases.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Google Search automation app/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Google Search automation app/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Google Search automation app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Google Search automation app/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Google Search automation app/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Google Search automation app/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Google Search automation app/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Google Search automation app/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Google Search automation app/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Google Search automation app/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.dirSun-Aug-07-19-14-14-EET-2022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.dirSun-Aug-07-19-15-26-EET-2022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.dirSun-Aug-07-19-15-50-EET-2022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.dirSun-Aug-07-19-16-11-EET-2022.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CrgJtAsEN9Nu1m4gZLlZGb65Fc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Saeed/Documents/Foodics/Automation Task/Automation_Task",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Saeed\Documents\cucumber\new project\Voistask\src\main\java\testdata" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.GoogleMainPageTest.GooglePageTitle">
+    <configuration name="C:/Users/Saeed/Documents/cucumber/new project/Voistask/src/main/test/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Voistask" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/test/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleMainPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.GoogleMainPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleMainPageTest.GooglePageTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.GoogleMainPageTest" />
+      <option name="METHOD_NAME" value="GooglePageTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GooglePageTwoTest.countlinksonpage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Voistask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.GooglePageTwoTest" />
+      <option name="METHOD_NAME" value="countlinksonpage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GooglePageTwoTest.scrollandnextpage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Voistask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.GooglePageTwoTest" />
+      <option name="METHOD_NAME" value="scrollandnextpage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.GoogleMainPageTest" />
+      <item itemvalue="TestNG.GoogleMainPageTest.GooglePageTitle" />
+      <item itemvalue="TestNG.GooglePageTwoTest.countlinksonpage" />
+      <item itemvalue="TestNG.GooglePageTwoTest.scrollandnextpage" />
+      <item itemvalue="TestNG.C:/Users/Saeed/Documents/cucumber/new project/Voistask/src/main/test/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GoogleMainPageTest.GooglePageTitle" />
+        <item itemvalue="TestNG.GoogleMainPageTest" />
+        <item itemvalue="TestNG.GooglePageTwoTest.scrollandnextpage" />
+        <item itemvalue="TestNG.GooglePageTwoTest.countlinksonpage" />
+        <item itemvalue="TestNG.C:/Users/Saeed/Documents/cucumber/new project/Voistask/src/main/test/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69021d5e-40fc-4762-9843-a42918109c9f" name="Changes" comment="" />
+      <created>1659566057371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659566057371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
